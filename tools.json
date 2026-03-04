@@ -1,0 +1,51 @@
+{
+  "notebooklm": {
+    "used_for": [
+      "Research assistance",
+      "Document summarization",
+      "Context-based Q&A"
+    ],
+    "advantages": [
+      "Handles large document sets",
+      "Strong contextual analysis",
+      "Fast summarization"
+    ],
+    "disadvantages": [
+      "Requires document upload",
+      "Limited offline use",
+      "Accuracy depends on source material"
+    ]
+  },
+  "cursor": {
+    "used_for": [
+      "Software development",
+      "Automated coding",
+      "Refactoring"
+    ],
+    "advantages": [
+      "Understands entire codebases",
+      "Predictive editing",
+      "Natural language commands"
+    ],
+    "disadvantages": [
+      "Paid subscription for full use",
+      "Complexity for beginners"
+    ]
+  },
+  "perplexity": {
+    "used_for": [
+      "Live web search",
+      "Fact-finding",
+      "Sourcing news"
+    ],
+    "advantages": [
+      "Real-time data",
+      "Clickable citations",
+      "Ad-free experience"
+    ],
+    "disadvantages": [
+      "Not built for creative writing",
+      "Occasional interpretation errors"
+    ]
+  }
+}
